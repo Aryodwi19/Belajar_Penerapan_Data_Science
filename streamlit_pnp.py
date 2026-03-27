@@ -44,7 +44,7 @@ with col3:
 if st.button("🚀 Prediksi Sekarang"):
     
     # Memanggil data asli sebagai template agar jumlah kolom sama persis dengan fit time
-    df_temp = pd.read_csv(r'C:\Users\aryod\Downloads\employee_data.csv')
+    df_temp = pd.read_csv('employee_data.csv')
     
     # Drop kolom yang sama seperti di coding Colab
     cols_to_drop = ['Attrition', 'EmployeeId', 'EmployeeCount', 'Over18', 'StandardHours']
