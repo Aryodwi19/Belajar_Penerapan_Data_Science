@@ -37,5 +37,7 @@ Program Mentorship untuk Karyawan Muda:
 Karena faktor Age (karyawan muda) rentan keluar, HR dapat membuat program engagement atau jalur pengembangan karier yang lebih jelas agar mereka merasa memiliki masa depan jangka panjang di Jaya Jaya Edutech.
 
 Melakukan salary benchmarking (perbandingan gaji pasar) secara berkala, terutama untuk posisi-posisi yang memiliki Monthly Rate tinggi namun Monthly Income rendah.
+Tujuan Memastikan kompensasi yang diberikan kompetitif dan adil agar karyawan merasa dihargai sesuai dengan nilai ekonomi mereka di perusahaan.
 
-Tujuan: Memastikan kompensasi yang diberikan kompetitif dan adil agar karyawan merasa dihargai sesuai dengan nilai ekonomi mereka di perusahaan.
+# Dashboard looker studio : https://lookerstudio.google.com/s/mbe_8oSugcg
+
